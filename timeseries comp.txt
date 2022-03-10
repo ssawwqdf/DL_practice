@@ -1,0 +1,51 @@
+
+-------------------------------------------------------------------- 독특&어렵다 시계열
+NH :  2021년(제2회) NH투자증권 빅데이터 경진대회 ---> 마감 (제출비활성)
+https://dacon.io/competitions/official/235798/overview/description
+
+--------------------------------------------------- train 5H  1H  30~40분
+Jane Street Market Prediction : 
+https://www.kaggle.com/c/jane-street-market-prediction/data
+
+
+
+-------------------------------------------------------------------- 수요예측 시계열
+태양광 발전량 예측 AI 경진대회 ---- 파일 핸들링
+https://dacon.io/competitions/official/235680/data
+train.csv : 훈련용 데이터 (1개 파일)
+test.csv : 정답용 데이터 (81개 파일)
+
+
+
+-------------------------------------------------------------------- Time Series 공부
+https://www.kaggle.com/neomatrix369/everything-you-can-do-with-a-time-series-metals
+
+--------------------------------------------------- 데이콘 : 주식 종료 가격 예측 경진대회
+- 회귀
+- ARIMA - 차분 - lstm
+https://dacon.io/competitions/official/235857/data 
+
+--------------------------------------------------- 캐글  :  주식 종료 가격 예측 경진대회
+kaggle stock predict 2m. 
+https://www.kaggle.com/c/110-1-ntut-dl-app-hw3/data
+
+
+
+
+
+
+
+
+
+
+
+================================================
+
+뉴스-주가
+https://www.kaggle.com/c/two-sigma-financial-news
+
+
+고객 세그멘테이션
+Bank marketing prediction (reboot ds)
+https://www.kaggle.com/hocop1/lightgbm-baseline-eda
+
